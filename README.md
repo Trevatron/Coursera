@@ -1,1 +1,1 @@
-# Coursera
+# coding-project-template
